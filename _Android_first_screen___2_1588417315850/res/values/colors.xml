@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- first_screen___2 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+
+	<color name="_bg__first_screen___2_color">#ffffff</color>
+	<color name="full_size_color">#05986a</color>
+	<color name="full_size_ek1_color">#01714e</color>
+	<color name="details_color">#ffffff</color>
+	<color name="reviews_color">#1b203b</color>
+	<color name="gimbarg_color">#05986a</color>
+	<color name="ellipse_7_color">#f2f2f2</color>
+	<color name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__lorem_ipsum_has_been_the_industry_s_standard_dummy__color">#6d6e7b</color>
+</resources>

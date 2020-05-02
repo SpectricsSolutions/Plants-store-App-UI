@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- first_screen strings -->
+
+	<string name="app_name">First Screen</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="our_plants_string">Our Plants</string>
+	<string name="explore_more_string">Explore More</string>
+	<string name="lorem_ipsum_dammy_plants_string">Lorem Ipsum Dammy Plants</string>
+	<string name="price___66___________size__medium_____________plant__gimam____string">Price: $66     |     Size: Medium      |      Plant: Gimam   </string>
+	<string name="search___string">Search |</string>
+	<string name="gbit_plant_string">Gbit Plant</string>
+	<string name="__88_string">$88</string>
+	<string name="gbit_plant_ek1_string">Gbit Plant</string>
+	<string name="__88_ek1_string">$88</string>
+	<string name="gbit_plant_ek2_string">Gbit Plant</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- first_screen___2 strings -->
+
+	<string name="app_name">First Screen  2</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="details_string">Details</string>
+	<string name="reviews_string">Reviews</string>
+	<string name="family_string">Family</string>
+	<string name="size_string">Size</string>
+	<string name="cetagory_string">Cetagory</string>
+	<string name="gimbarg_string">Gimbarg</string>
+	<string name="height__62_inc_string">Height: 62 Inc</string>
+	<string name="indor_string">Indor</string>
+	<string name="details_ek1_string">Details</string>
+	<string name="price___200_string">Price: $200</string>
+	<string name="buy_it_now_string">Buy It Now</string>
+	<string name="lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__lorem_ipsum_has_been_the_industry_s_standard_dummy__string">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy </string>
+</resources>
